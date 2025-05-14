@@ -1,0 +1,1 @@
+rm /data/system/package_cache/*/OpenEUICC*
